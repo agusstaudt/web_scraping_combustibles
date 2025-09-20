@@ -1,0 +1,22 @@
+# entornos / credenciales
+.env
+*.env
+*.secret
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# datos locales
+data/
+outputs/
+logs/
+screenshots/
+
+# virtualenv/local
+.venv/
+.envrc
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,16 @@
+# Web scraping
+selenium
+webdriver-manager
+
+# Procesamiento de imágenes
+opencv-python-headless
+numpy
+pillow
+pytesseract
+
+# Procesamiento de datos
+pandas
+
+# MySQL
+pymysql
+python-dotenv
